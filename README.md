@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmaniAAlshehri
+- 👋 Hi, I’m @Amani 
 - 👀 I’m interested in cloud computing, And UX/UI
 - 🌱 I’m currently learning Flutter language
 - ✨ I'm an information systems student
