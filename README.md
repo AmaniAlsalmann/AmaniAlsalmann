@@ -1,7 +1,7 @@
 - Hi, I’m @Amani 
-- I’m interested in cloud computing, And UX/UI
+- I’m interested in Cloud Computing, And UX/UI
 - I’m currently learning Flutter language
-- I'm an information systems student
+- I'm an Information Systems student
 - Reach me at AmaniAlsalmann@gmail.com
 
 <!---
